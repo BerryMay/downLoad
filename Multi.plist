@@ -12,7 +12,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>192.168.2.116:8888/InstallTest.ipa</string>
+					<string>http://192.168.2.116:8888/InstallTest.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
