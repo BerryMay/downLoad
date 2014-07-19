@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://192.168.200.156/Calculator.ipa</string>
+					<string>http://192.168.2.116/InstallTest.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.fingard.enterprise</string>
+				<string>com.freelypay.ChannelCRM</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>Calculator</string>
+				<string>InstallTest</string>
 			</dict>
 		</dict>
 	</array>
