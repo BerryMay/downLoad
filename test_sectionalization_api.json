@@ -32,6 +32,27 @@
             "buy_amt": "1000",
             "ea_amt": "0.32",
             "ea_amt_sum": "0.32",
+            "ea_date": "2014-11-24",
+            "uf_mob": "35d9f2d84c704742894c6f95b6baa28c1197"
+        },
+        {
+            "buy_amt": "1000",
+            "ea_amt": "0.32",
+            "ea_amt_sum": "0.32",
+            "ea_date": "2017-11-24",
+            "uf_mob": "35d9f2d84c704742894c6f95b6baa28c1197"
+        },
+        {
+            "buy_amt": "1000",
+            "ea_amt": "0.32",
+            "ea_amt_sum": "0.32",
+            "ea_date": "2014-11-24",
+            "uf_mob": "35d9f2d84c704742894c6f95b6baa28c1197"
+        },
+        {
+            "buy_amt": "1000",
+            "ea_amt": "0.32",
+            "ea_amt_sum": "0.32",
             "ea_date": "2016-11-24",
             "uf_mob": "35d9f2d84c704742894c6f95b6baa28c1197"
         }
