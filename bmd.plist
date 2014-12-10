@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://10.60.44.186:8888/bmd.ipa</string>
+					<string>http://app.fingard.net:8090/appDelegate/web/download/bmd.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
