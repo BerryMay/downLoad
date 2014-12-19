@@ -1,35 +1,39 @@
-({
-            "buy_amt" = 1000;
-            "ea_amt" = "0.32";
-            "ea_amt_sum" = "0.32";
-            "ea_date" = "2014-11-24";
-            "uf_mob" = 35d9f2d84c704742894c6f95b6baa28c1197;
-        }
-  {
-            "buy_amt" = 1000;
-            "ea_amt" = "0.32";
-            "ea_amt_sum" = "0.32";
-            "ea_date" = "2014-11-24";
-            "uf_mob" = 35d9f2d84c704742894c6f95b6baa28c1197;
-        }
-  {
-            "buy_amt" = 1000;
-            "ea_amt" = "0.32";
-            "ea_amt_sum" = "0.32";
-            "ea_date" = "2015-11-24";
-            "uf_mob" = 35d9f2d84c704742894c6f95b6baa28c1197;
-        }
-  {
-            "buy_amt" = 1000;
-            "ea_amt" = "0.32";
-            "ea_amt_sum" = "0.32";
-            "ea_date" = "2015-11-24";
-            "uf_mob" = 35d9f2d84c704742894c6f95b6baa28c1197;
-        }
-  {
-            "buy_amt" = 1000;
-            "ea_amt" = "0.32";
-            "ea_amt_sum" = "0.32";
-            "ea_date" = "2016-11-24";
-            "uf_mob" = 35d9f2d84c704742894c6f95b6baa28c1197;
-        })
+{
+    code = "SUCCESS-0000";
+    message = "";
+    results =     {
+        accountList =         (
+                        {
+                accountId = 27;
+                buyLimit = 888523;
+                buyTime = "2014-12-16";
+                customerId = 10022;
+                customerName = "\U8774\U8776";
+                exceptedRate = "5.8";
+                isRegular = 1;
+                openStartTime = "2014-12-16 00:00:00";
+                productCode = "";
+                productId = 20003;
+                productName = "\U9655\U56fd\U6295\U00b7";
+                userId = 11002;
+            },
+                        {
+                accountId = 35;
+                buyLimit = 55;
+                buyTime = "2014-12-16";
+                customerId = 10021;
+                customerName = "\U6960\U6960";
+                exceptedRate = "2.5";
+                isRegular = 1;
+                openStartTime = "2014-12-16 00:00:00";
+                productCode = "";
+                productId = 20004;
+                productName = "\U9655\U56fd\U6295\U00b7\U91d1";
+                userId = 11002;
+            }
+        );
+        returnCount = 2;
+        totalCount = 9;
+    };
+    successful = true;
+}
