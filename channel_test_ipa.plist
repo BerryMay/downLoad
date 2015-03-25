@@ -11,7 +11,7 @@
 				<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://127.0.0.1/1.ipa</string>
+					<string>http://10.60.44.178:8888/multi.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -23,7 +23,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>Licai</string>
+				<string>tongcheng</string>
 			</dict>
 		</dict>
 	</array>
