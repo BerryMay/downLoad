@@ -31,11 +31,11 @@
 				<key>bundle-identifier</key>
 				<string>com.fingard.atsh5</string>
 				<key>bundle-version</key>
-				<string>1.0</string>
+				<string>1.0.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>atsh5</string>
+				<string>保融资金管理</string>
 			</dict>
 		</dict>
 	</array>
