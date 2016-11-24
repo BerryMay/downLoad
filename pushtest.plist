@@ -11,25 +11,25 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://ats.fingard.net:808/pp/yinqi/tianmaw/tianmaw.ipa</string>
+					<string>http://10.60.44.195/PushTest.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>http://ats.fingard.net:808/pp/yinqi/tianmaw/image.57x57.png</string>
+					<string>http://ats.fingard.net:808/pp/yinqi/kunyaojituan/image.57x57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>http://ats.fingard.net:808/pp/yinqi/tianmaw/image.512x512.png</string>
+					<string>http://ats.fingard.net:808/pp/yinqi/kunyaojituan/image.512x512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.fingard.tianmaw</string>
+				<string>com.fingard.ATS</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
