@@ -29,13 +29,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.fingard.ATS</string>
+				<string>com.fingard.general</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>企业ATS</string>
+				<string>企金融</string>
 			</dict>
 		</dict>
 	</array>
