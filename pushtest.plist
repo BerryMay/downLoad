@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://ats.fingard.net:9001/publish/app4EE/fingard/app/face.ipa</string>
+					<string>http://ats.fingard.net:9001/publish/app4EE/fingard/app/newats.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -29,7 +29,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.fingard.face</string>
+				<string>com.fingard.newats</string>
 				<key>bundle-version</key>
 				<string>1.0.0</string>
 				<key>kind</key>
